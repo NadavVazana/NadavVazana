@@ -1,4 +1,6 @@
-• 👋 Hi, I’m Nadav Vazana
+# Hi! I'm Nadav Vazana 👋
+
+
 
 • 🌴 Proficient in building single-page apps
 
