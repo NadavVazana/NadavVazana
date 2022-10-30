@@ -6,7 +6,7 @@
 
 • 🎯 High self-disciplined with a constant drive for professional excellence.
 
-• 🏆 I recently built a clone of Wix, check it out, it has everything! [Weebo](https://tbn-weebo.herokuapp.com/)
+• 🏆 I recently built a twin of Wix, check it out, it has everything! [Weebo](https://tbn-weebo.herokuapp.com/)
 
 • 📫 You can reach me at [nadavvivsa@gmail.com](nadavvivsa@gmail.com)
 
