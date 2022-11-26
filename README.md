@@ -13,7 +13,8 @@
 • 💙 Fun fact: I love music, playing guitar, and art 🎨
 
 ## Connect with me:
-[<img title="linkdin" width="40px" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/nadav-vazana-5b4540213/)
+[<img title="Linkdin" width="40px" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/nadav-vazana-5b4540213/)                             
+[<img title="My Website" width="40px" height="40px" src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1669484568/website-svgrepo-com_2_mlu63c.svg" />](https://nadavvazana.netlify.app/)
 
 ## Languages and Tools:
 [<img title="BABEL" alt="BABEL" width="40px" height="40px" src="https://camo.githubusercontent.com/1abf71d00a4a13bfdeccdc131c65f02644fae4e746289bd7c21bf1d2af986389/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f626162656c6a732f626162656c6a732d69636f6e2e737667" />](https://babeljs.io/)
