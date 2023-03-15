@@ -21,8 +21,10 @@
 
 [<img title="My Website" width="40px" height="40px" src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1669484568/website-svgrepo-com_2_mlu63c.svg" />](https://nadavvazana.netlify.app/)
 
+
 ## Languages and Tools:
 [<img title="BABEL" alt="BABEL" width="40px" height="40px" src="https://camo.githubusercontent.com/1abf71d00a4a13bfdeccdc131c65f02644fae4e746289bd7c21bf1d2af986389/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f626162656c6a732f626162656c6a732d69636f6e2e737667" />](https://babeljs.io/)
+[<img title="Quasar" alt="Quasar" width="40px" height="40px" src="https://www.svgrepo.com/show/306629/quasar.svg" />](https://quasar.dev/)
 [<img title="CSS" alt="CSS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
 [<img title="EXPRESS" alt="EXPRESS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />](https://expressjs.com/)
 [<img title="GIT" alt="GIT"  width="40px" height="40px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />](https://git-scm.com/)
