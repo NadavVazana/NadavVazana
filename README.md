@@ -12,7 +12,6 @@
 
 • 💙 Fun fact: I love music, playing guitar, and art 🎨
 
-• 🦉 OwlMS: I was one of the main developers on creating this web application. [Check it out!](https://owlms.store).
 
 
 ## Connect with me:
