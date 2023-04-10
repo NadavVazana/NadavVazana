@@ -42,3 +42,5 @@
       src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1673650287/recoil-js_y2kpao.svg" />](https://recoiljs.org/)
       [<img title="Matireal UI" alt="Matireal UI"  width="40px" height="40px"
       src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1673650384/material-ui-1_waefnx.svg" />](https://mui.com/)
+            [<img title="Pinia" alt="Pinia"  width="40px" height="40px"
+      src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1681160325/logo_gpzyuz.svg" />](https://pinia.vuejs.org/)
